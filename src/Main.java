@@ -3,7 +3,6 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("its me Munarbek ");
         System.out.println("Hello World");
-        System.out.printf("nvnvjav");
-        System.out.printf("vknnnvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv");
+        System.out.println("65br ecbbc");
     }
 }
